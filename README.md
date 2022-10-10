@@ -2,7 +2,7 @@
 
 **I am a Software Developer 👨‍💻💻**
 
-### Currently working at [Luxsonic Technoolgies Inc.](https://luxsonic.ca)
+### Currently working at [Luxsonic Technologies Inc.](https://luxsonic.ca)
 - Lead VR Unity Developer 🥽
 - Working on immersive Virtual Reality Medical applications ⚕️
 
