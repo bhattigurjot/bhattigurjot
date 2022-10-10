@@ -26,7 +26,7 @@
 [@LinkedIn](https://www.linkedin.com/in/gurjot-singh-bhatti/)
 
 ### 📚 Recommended Reads:
-_ Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear_
+_Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones_ by _James Clear_
 
 ### 😆 😂 😉:
 - _To understand what recursion is, you must first understand recursion._
