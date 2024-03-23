@@ -3,7 +3,7 @@
 **I am a Software Developer 👨‍💻💻**
 
 ### Currently working at [Luxsonic Technologies Inc.](https://luxsonic.ca)
-- Lead VR Developer (Unity and Apple Vision Pro) 🥽
+- Lead VR Developer {Unity and VisionOS (Apple Vision Pro)} 🥽
 - Working on immersive Virtual Reality Medical applications ⚕️
 
 ### 👨‍💻🐱‍💻 Languages and Tech:
